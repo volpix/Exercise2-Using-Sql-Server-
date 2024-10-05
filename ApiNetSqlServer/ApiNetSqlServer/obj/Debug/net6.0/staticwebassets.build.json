@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FwwbP7FXaegFdMi/fQ8HeGqSFNYa0+RAd8QJ9FbwcE0=",
+  "Source": "ApiNetSqlServer",
+  "BasePath": "_content/ApiNetSqlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

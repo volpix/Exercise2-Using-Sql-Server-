@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiNetSqlServer</name>
+    </assembly>
+    <members>
+        <member name="M:ApiNetSqlServer.Controllers.EmployeesController.GetEmployees">
+            <summary>
+            Get all employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiNetSqlServer.Controllers.EmployeesController.GetEmployee(System.Int32)">
+            <summary>
+            Get employees by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiNetSqlServer.Controllers.EmployeesController.PostEmployee(ApiNetSqlServer.Models.Employee)">
+            <summary>
+            Add employee
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiNetSqlServer.Controllers.EmployeesController.PutEmployee(ApiNetSqlServer.Models.Employee)">
+            <summary>
+            Update employee
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiNetSqlServer.Controllers.EmployeesController.DeleteEmployee(System.Int32)">
+            <summary>
+            Delete employee
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
